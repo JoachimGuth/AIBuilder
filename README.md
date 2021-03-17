@@ -1,9 +1,10 @@
-# AIBuilder
+# AIBuilder final Project
 Final project proposal for the AI course of the University of Helsinki
 
 
-# Your idea in a nutshell: 
-Name your project and prepare to describe it briefly.
+# Idea in a nutshell: 
+A bakery chain with a central bakery and many stores experiences sometimes oversupply, sometimes lack of baking goods inthe stores.
+The idea is to optimise the supply to avoid lack of goods and leftovers in the etores.
 
 
 # Background: 
