@@ -30,7 +30,21 @@ This problem exist almost every day.
 What data sources does your project depend on? Almost all AI solutions depend on some data. The availability and quality of the data are essential. Which AI techniques do you think will be helpful? Depending on whether you've been doing the programming exercises or not, you may choose to include a concrete demo implemented by coding, using some actual data!
 
 
-# How is it used:
+# How is it used
+
+A good solution might affect various parties, especially the owner of the bakery chain should experience some cost reduction as lesss resources would be required and wasted. On top of that more revenue would lead to a higher income. 
+
+## Owner of the Bakery Chain
+
+## Store Manager/Employees
+
+## Customer
+
+## Delivery Service
+
+
+
+
 What is the context in which your solution is used, and by whom? Who are the people affected by it? It’s important to appreciate the viewpoints of all those affected.
 
 # Challenges: 
