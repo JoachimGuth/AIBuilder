@@ -3,11 +3,15 @@ Final project proposal for the AI course of the University of Helsinki
 
 
 # Idea in a nutshell
-The stores of a bakery chain with a central bakery experiences sometimes oversupply, sometimes lack of baking goodsin the stores when needed. The idea is to optimise the distribution of goods to avoid a lack of goods and leftovers in the stores.
+Optimisation of baking goods availability and leftovers in the stores of a bakery chain with a central bakery distribution centre.The project aims for cost reduction and increase of revenue. The optimisation leads to a reduction of waste and less wasteful usage of resources.
 
 
 # Background
 What is the problem your idea will solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+
+A bakery chain supplies its baking goods from a central bakery to its stores. The stores of a bakery chain experiences sometimes oversupply, sometimes lack of baking goods in the stores when needed. 
+
+The idea is to optimise the distribution of goods to avoid a lack of goods and leftovers in the stores.
 
 There are 2 main problems for the bakery chain. 
 ## Revenue loss
