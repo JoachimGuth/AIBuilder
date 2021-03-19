@@ -13,11 +13,10 @@ A bakery chain supplies its baking goods from a central bakery facility to its c
 
 The idea is to optimise the distribution of goods to avoid a lack of goods and leftovers in the stores.
 
-There are 2 main problems for the bakery chain. 
-## Revenue loss
+### Revenue loss
 Sometimes goods could be sold at one bakery store but the particular good is not available, whereas the respective good is readily available in another store. The bakery chain experiences a loss of revenue.
 
-## Leftovers
+### Leftovers
 Some stores experiences leftovers after the store is closing for the day whereas another store could have sold those goods if they would have been available.
 
 This kind of issue happens almost every day. 
@@ -29,23 +28,51 @@ Another challenge would be speed of delivery and with this route optimisation.
 # Data and AI techniques:
 What data sources does your project depend on? Almost all AI solutions depend on some data. The availability and quality of the data are essential. Which AI techniques do you think will be helpful? Depending on whether you've been doing the programming exercises or not, you may choose to include a concrete demo implemented by coding, using some actual data!
 
+### Data
+Location of stores, central bakery
+Baking Goods of relevance
+Availability of baking goods in the stores
+Sales of baking goods
+Map of relevant area
+Traffic condition
+
+
+### Data Acquisition
+Location of stores 
++ can easily be found from any map application - one time manual
+
+Baking Goods
++ from inventory list of the bakery chain - one time manual
+
+Availability of Baking Goods
++ sensors in the display tray
++ counting based on initial stock and sales data from POS
+
+Sales Data
++ POS
+
+Map
++ Google Map API
+
+### AI Technique
+The overall solution consists of several components.
+
 
 # How is it used
 
-A good solution might affect various parties, especially the owner of the bakery chain should experience some cost reduction as lesss resources would be required and wasted. On top of that more revenue would lead to a higher income. 
+What is the context in which your solution is used, and by whom? Who are the people affected by it? It’s important to appreciate the viewpoints of all those affected
 
-## Owner of the Bakery Chain
+A good solution might affect various parties, especially the owner of the bakery chain should experience some cost reduction as lesss resources would be required and wasted. On top of that more revenue would lead to a higher income. Eventually customer satisfaction might be positively affected.
 
-## Store Manager/Employees
+### Owner of the Bakery Chain
 
-## Customer
+### Store Manager/Employees
 
-## Delivery Service
+### Customer
 
+### Delivery Service
 
-
-
-What is the context in which your solution is used, and by whom? Who are the people affected by it? It’s important to appreciate the viewpoints of all those affected.
+.
 
 # Challenges: 
 What does your project not solve? It’s important to understand that any technological solution will have its limitations.
