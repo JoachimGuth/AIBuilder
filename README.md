@@ -3,31 +3,27 @@ Final project proposal for the AI course of the University of Helsinki
 
 
 # Idea in a nutshell
-Optimisation of baking goods availability and leftovers in the stores of a bakery chain with a central bakery distribution centre.The project aims for cost reduction and increase of revenue. The optimisation leads to a reduction of waste and less wasteful usage of resources.
+Optimisation of baking goods availability and leftovers in the stores of a bakery chain with a central bakery distribution centre. The optimisation leads to a reduction of waste and less wasteful usage of resources. This in turn leads to cost reduction and increase of revenue for the owner of the bakery chain.
 
 
 # Background
 What is the problem your idea will solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-A bakery chain supplies its baking goods from a central bakery to its stores. The stores of a bakery chain experiences sometimes oversupply, sometimes lack of baking goods in the stores when needed. 
+A bakery chain supplies its baking goods from a central bakery facility to its cafes and stores. The stores of a bakery chain experiences sometimes oversupply, sometimes lack of baking goods in the stores when needed. 
 
 The idea is to optimise the distribution of goods to avoid a lack of goods and leftovers in the stores.
 
 There are 2 main problems for the bakery chain. 
 ## Revenue loss
-Sometimes goods could be sold at one bakery store but the particular good is not available, whereas the respective good is available in another store. The bakery chain experiences a loss of revenue.
+Sometimes goods could be sold at one bakery store but the particular good is not available, whereas the respective good is readily available in another store. The bakery chain experiences a loss of revenue.
 
 ## Leftovers
-Some stores experiences leftovers after the store is closing for the day whereas another store could have sold it if those goods would have been available.
+Some stores experiences leftovers after the store is closing for the day whereas another store could have sold those goods if they would have been available.
 
-This problem exist almost every day. 
+This kind of issue happens almost every day. 
 
-## Cost and Speed of goods distribution
-
-
-
-
-
+### Cost and Speed of goods distribution
+Another challenge would be speed of delivery and with this route optimisation.
 
 
 # Data and AI techniques:
