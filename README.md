@@ -29,9 +29,9 @@ Another challenge would be speed of delivery and with this route optimisation.
 What data sources does your project depend on? Almost all AI solutions depend on some data. The availability and quality of the data are essential. Which AI techniques do you think will be helpful? Depending on whether you've been doing the programming exercises or not, you may choose to include a concrete demo implemented by coding, using some actual data!
 
 ### Data
-Location of stores, central bakery
-Baking Goods of relevance
-Availability of baking goods in the stores
+* Location of stores, central bakery
+* Baking Goods of relevance
+* Availability of baking goods in the stores
 Sales of baking goods
 Map of relevant area
 Traffic condition
