@@ -32,9 +32,10 @@ What data sources does your project depend on? Almost all AI solutions depend on
 * Location of stores, central bakery
 * Baking Goods of relevance
 * Availability of baking goods in the stores
-Sales of baking goods
-Map of relevant area
-Traffic condition
+* Goods in deliveryvehicle
+* Sales of baking goods
+* Map of relevant area
+* Traffic condition
 
 
 ### Data Acquisition
@@ -42,7 +43,7 @@ Location of stores
 + can easily be found from any map application - one time manual
 
 Baking Goods
-+ from inventory list of the bakery chain - one time manual
++ from inventory list of the bakery chain - one time manual entry,
 
 Availability of Baking Goods
 + sensors in the display tray
@@ -56,6 +57,9 @@ Map
 
 ### AI Technique
 The overall solution consists of several components.
+
+Optimisation of the route for daily goods distribution from central bakery to stores
+Online route generation based on triggers from stores with lack of goods
 
 
 # How is it used
